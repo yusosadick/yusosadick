@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Assalamu Alaikum, I’m Yuso
 
-<!--
-**yusosadick/yusosadick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alhamdulillah — I’m a software developer focused on building clean, practical, and reliable software.
 
-Here are some ideas to get you started:
+### 🧠 What I Work On
+- Web & mobile applications
+- Backend systems & APIs
+- Open-source tooling
+- Real-world problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- JavaScript / TypeScript
+- Node.js
+- React / React Native
+- Git & GitHub
+- Docker (basic)
+
+### 📌 Principles
+- Clean code
+- Security & compliance
+- Continuous learning
+- Patience and discipline
+
+> *Sabr. Adab. Tawakkul. Correct action.*
