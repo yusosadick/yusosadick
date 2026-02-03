@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="Pasted image (5).png" alt="Hello World, I'm yuso!" width="100%">
+  <img src="hero-banner.svg" alt="Hello world, I'm yuso!" width="100%">
 </h3>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yusosadick.yusosadick">
