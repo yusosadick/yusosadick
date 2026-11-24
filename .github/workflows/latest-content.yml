@@ -1,0 +1,38 @@
+name: Latest blog posts and videos
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest writing and videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://usetemplates.store/blog/rss.xml"
+          comment_tag_name: "BLOG-POST-LIST"
+          max_post_count: 5
+          template: "- [$title]($url)$newline"
+          commit_message: "Update latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ExJ_aHfRH0iBbdpxlzWFw"
+          comment_tag_name: "YOUTUBE-VIDEO-LIST"
+          max_post_count: 5
+          template: "- [$title]($url)$newline"
+          commit_message: "Update latest YouTube videos"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
