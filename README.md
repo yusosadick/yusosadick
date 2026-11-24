@@ -82,6 +82,24 @@
 </p>
 
 <hr>
+<h2 align="center">✍️ Latest writing</h2>
+<p align="center">
+  <i>Notes on design, building and shipping websites, from <a href="https://usetemplates.store/blog">my blog</a>. Updates daily.</i>
+</p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<hr>
+<h2 align="center">🎬 Latest videos</h2>
+<p align="center">
+  <i>Short build walkthroughs from <a href="https://www.youtube.com/@yusoufsadick">my YouTube channel</a>. Updates daily.</i>
+</p>
+
+<!-- YOUTUBE-VIDEO-LIST:START -->
+<!-- YOUTUBE-VIDEO-LIST:END -->
+
+<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
