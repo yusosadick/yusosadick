@@ -11,30 +11,74 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/yusosadick/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/yusosadick" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/your-user-id/yusosadick" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <!-- <code><a href="https://twitter.com/yusosadick" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code> -->
-  <code><a href="https://www.instagram.com/yusosadick/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://yusouf.dev" title="Website"><img width="22" src="images/website.svg"> yusouf.dev</a></code>
+  <code><a href="https://x.com/yuso_sadick" title="X Profile"><img width="22" src="images/x.svg"> X</a></code>
+  <code><a href="https://www.linkedin.com/in/yuso-sadick/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/yuso_sadick/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Yuso, Software Developer focused on building clean, practical, and reliable software
+  Hi, I'm Yuso, Product Designer & Full-Stack Builder from Zanzibar, Tanzania 🇹🇿
+  <br>
+  <i>Design it, build it, ship it: one person, whole product.</i>
   <br>
   <br>
-  💻 I'm currently working on web & mobile applications and backend systems
+  💻 I design and build the whole product: interface, code, backend, and the video that sells it
   <br>
-  🎓 [Add your education background here]
+  🛠️ Day to day: Figma, React, Next.js, React Native / Expo, TypeScript, Tailwind, Supabase / PostgreSQL, Docker
   <br>
-  🔬 [Add your current studies/research here]
+  📸 Founder of <a href="https://eddypixel.com">EddyPixel</a>, a photo & video studio in Zanzibar
   <br>
-  💻 I love writing code and learning anything about it
+  🌴 Designed & built <a href="https://rostandzanzibar.com">Rostand Zanzibar</a> and <a href="https://zahorotours.com">Zahoro Tours</a>, booking sites for Zanzibar travel
   <br>
-  📚 I'm currently learning [add what you're learning]
+  🎮 Building <a href="https://hasheemgaming.com">Hasheem Gaming</a>, a React Native marketplace for products & game accounts
+  <br>
+  🌍 Working with clients worldwide
   <br>
   💬 Ask me anything from <a href="https://github.com/yusosadick/yusosadick/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: [add your email or contact info]
+  📫 How to reach me: <a href="mailto:letsbuild@yusouf.dev">letsbuild@yusouf.dev</a> · <a href="https://yusouf.dev">yusouf.dev</a>
+</p>
+
+<hr>
+<h2 align="center">🛍️ Currently building: <a href="https://usetemplates.store">usetemplates.store</a></h2>
+<p align="center">
+  Premium <b>React + Tailwind</b> website, dashboard & app templates, each with a <b>live preview</b> you can click through before you buy.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://hooma.usetemplates.store"><img src="images/templates/hooma.webp" width="260" alt="Hooma real-estate website template preview"></a>
+      <br><sub><b>Hooma</b> · Real-estate website</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://boldfashion.usetemplates.store"><img src="images/templates/boldfashion.webp" width="260" alt="Ardent House fashion store template preview"></a>
+      <br><sub><b>Ardent House</b> · Fashion store</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://sushi.usetemplates.store"><img src="images/templates/sushi.webp" width="260" alt="Hanami sushi restaurant template preview"></a>
+      <br><sub><b>Hanami</b> · Sushi restaurant</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://aquaorix.usetemplates.store"><img src="images/templates/aquaorix.webp" width="260" alt="Aqua Charter yacht charter template preview"></a>
+      <br><sub><b>Aqua Charter</b> · Yacht charter</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://dash-realestatecrm.usetemplates.store"><img src="images/templates/dash-realestatecrm.webp" width="260" alt="Porchlight real-estate CRM dashboard template preview"></a>
+      <br><sub><b>Porchlight</b> · Real-estate CRM dashboard</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://kit-authfun.usetemplates.store"><img src="images/templates/kit-authfun.webp" width="260" alt="Tidepool auth screens kit template preview"></a>
+      <br><sub><b>Tidepool</b> · Auth screens kit</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://usetemplates.store"><b>Browse all templates →</b></a>
 </p>
 
 <hr>
