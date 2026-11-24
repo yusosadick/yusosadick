@@ -87,12 +87,12 @@
   <i>Notes on design, building and shipping websites, from <a href="https://usetemplates.store/blog">my blog</a>. Updates daily.</i>
 </p>
 
-<!-- BLOG-POST-LIST:START -->- [Best Restaurant Website Templates &lpar;React + Tailwind&rpar; in 2026](https://usetemplates.store/blog/best-restaurant-website-templates-react-tailwind)
+<!-- BLOG-POST-LIST:START -->
+- [Best Restaurant Website Templates &lpar;React + Tailwind&rpar; in 2026](https://usetemplates.store/blog/best-restaurant-website-templates-react-tailwind)
 - [How to Choose a Website Template for a Small Business](https://usetemplates.store/blog/how-to-choose-a-website-template-for-a-small-business)
 - [Deploy a React + Tailwind template to Vercel, Netlify or cPanel](https://usetemplates.store/blog/deploy-react-tailwind-template-vercel-netlify-cpanel)
 - [Best SaaS Dashboard Templates for React &lpar;2026&rpar;](https://usetemplates.store/blog/best-saas-dashboard-templates-react)
-- [Accepting Mobile Money on a Website in Tanzania](https://usetemplates.store/blog/accept-mobile-money-website-tanzania)
-<!-- BLOG-POST-LIST:END -->
+- [Accepting Mobile Money on a Website in Tanzania](https://usetemplates.store/blog/accept-mobile-money-website-tanzania)<!-- BLOG-POST-LIST:END -->
 
 <hr>
 <h2 align="center">🎬 Latest videos</h2>
