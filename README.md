@@ -100,12 +100,12 @@
   <i>Short build walkthroughs from <a href="https://www.youtube.com/@yusoufsadick">my YouTube channel</a>. Updates daily.</i>
 </p>
 
-<!-- YOUTUBE-VIDEO-LIST:START -->- [Olive &amp; Ash — React + Tailwind Website Template &lpar;Live Preview&rpar;](https://www.youtube.com/watch?v=hKsvNx9M_O0)
+<!-- YOUTUBE-VIDEO-LIST:START -->
+- [Olive &amp; Ash — React + Tailwind Website Template &lpar;Live Preview&rpar;](https://www.youtube.com/watch?v=hKsvNx9M_O0)
 - [Pine-green burger restaurant website template — React + Tailwind &lpar;Olive &amp; Ash&rpar;](https://www.youtube.com/shorts/SCeOn63Elto)
 - [Noodle Ko — React + Tailwind Website Template &lpar;Live Preview&rpar;](https://www.youtube.com/watch?v=RLDHERwHaB0)
 - [Molten Bros. — React + Tailwind Website Template &lpar;Live Preview&rpar;](https://www.youtube.com/watch?v=uchxVOKsr7c)
-- [Online ramen ordering website template — React + Tailwind &lpar;Noodle Ko&rpar;](https://www.youtube.com/shorts/5VA3t5zhgR0)
-<!-- YOUTUBE-VIDEO-LIST:END -->
+- [Online ramen ordering website template — React + Tailwind &lpar;Noodle Ko&rpar;](https://www.youtube.com/shorts/5VA3t5zhgR0)<!-- YOUTUBE-VIDEO-LIST:END -->
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
