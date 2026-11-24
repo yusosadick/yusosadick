@@ -21,7 +21,7 @@ jobs:
           feed_list: "https://usetemplates.store/blog/rss.xml"
           comment_tag_name: "BLOG-POST-LIST"
           max_post_count: 5
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"
           commit_message: "Update latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
@@ -32,7 +32,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ExJ_aHfRH0iBbdpxlzWFw"
           comment_tag_name: "YOUTUBE-VIDEO-LIST"
           max_post_count: 5
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"
           commit_message: "Update latest YouTube videos"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
