@@ -101,11 +101,11 @@
 </p>
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-- [Olive &amp; Ash — React + Tailwind Website Template &lpar;Live Preview&rpar;](https://www.youtube.com/watch?v=hKsvNx9M_O0)
-- [Pine-green burger restaurant website template — React + Tailwind &lpar;Olive &amp; Ash&rpar;](https://www.youtube.com/shorts/SCeOn63Elto)
-- [Noodle Ko — React + Tailwind Website Template &lpar;Live Preview&rpar;](https://www.youtube.com/watch?v=RLDHERwHaB0)
-- [Molten Bros. — React + Tailwind Website Template &lpar;Live Preview&rpar;](https://www.youtube.com/watch?v=uchxVOKsr7c)
-- [Online ramen ordering website template — React + Tailwind &lpar;Noodle Ko&rpar;](https://www.youtube.com/shorts/5VA3t5zhgR0)<!-- YOUTUBE-VIDEO-LIST:END -->
+- [Online ramen ordering website template — React + Tailwind &lpar;Noodle Ko&rpar;](https://www.youtube.com/watch?v=TOrZMx-UAYs)
+- [Online ramen ordering website template — React + Tailwind &lpar;Noodle Ko&rpar;](https://www.youtube.com/shorts/xzVKyf-dTAg)
+- [Bold burger restaurant website template — React + Tailwind &lpar;Molten Bros.&rpar;](https://www.youtube.com/watch?v=4EYLDOR-4f4)
+- [Bold burger restaurant website template — React + Tailwind &lpar;Molten Bros.&rpar;](https://www.youtube.com/shorts/L5g-zrufI4M)
+- [Sushi restaurant website template — React + Tailwind &lpar;Hanami Sushi&rpar;](https://www.youtube.com/watch?v=RxwYpEAxAgo)<!-- YOUTUBE-VIDEO-LIST:END -->
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
